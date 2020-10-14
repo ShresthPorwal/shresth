@@ -1,0 +1,13 @@
+<button onclick="document.getElementById('demo').style='display:block'"> Show! </button>
+
+
+
+
+
+
+
+
+
+
+
+​<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>

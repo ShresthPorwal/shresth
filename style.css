@@ -1,0 +1,41 @@
+#asd{
+    margin-left: 2.5%;
+    border-style: solid ;
+    border-color: aqua;
+    color: brown;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+#a{
+    margin-left: 2.5%;
+    border-style: dotted 2px;
+}
+#b{
+    margin-left: 2.5%;
+    border-style: dotted 2px;
+}
+#xyz{
+    border-style: solid;
+    border-color: beige;
+    background-color: yellow;
+}
+ul{
+    color: white;
+    background-color: black;
+}
+.abc{
+    margin-left: 2.5%;
+}
+#qwerty{
+    margin-left: 2.5%;
+}
